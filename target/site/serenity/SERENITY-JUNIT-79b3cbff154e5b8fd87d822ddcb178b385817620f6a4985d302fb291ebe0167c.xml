@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Crear simulacion de un credito de libre inversion" skipped="0" tests="1" time="81.99" timestamp="2023-05-24 05:47:01"><testcase name="Simular un credito de libre inversion en la pagina de Bancolombia"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+udea.calidad.interactions.NavigationBack.performAs(BancolombiaNavigation.java:21)&#13;
+udea.calidad.tasks.NavigationInThe.performAs(NavigationInThe.java:21)&#13;
+co.edu.udea.calidad.stepdefinitions.SimulationPageStepDefinition.navegacionHomePageBancolombia(SimulationPageStepDefinition.java:44)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
